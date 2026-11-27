@@ -22,3 +22,6 @@ __pycache__/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+uv.lock
+pyproject.toml
