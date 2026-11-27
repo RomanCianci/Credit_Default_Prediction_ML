@@ -1,0 +1,24 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Fichiers de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# IDE PyCharm / JetBrains
+.idea/
+*.iml
+
+# Système d'exploitation (Windows / macOS)
+Thumbs.db
+Desktop.ini
+.DS_Store
